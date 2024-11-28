@@ -1,7 +1,7 @@
 {
-    "name": "project-name",
-    "version": "0.1.0",
-    "description": "Project description",
+    "name": "carousel-component",
+    "version": "1.0",
+    "description": "A carousel custom component using Sass and vanilla JS",
     "main": "public/index.html",
     "author": "Frontend Stu",
     "license": "",
